@@ -1,3 +1,5 @@
+## Added new @mapbox/node-pre-gyp for Node < v12.x and Electron < v8.0.x
+
 Asynchronous, non-blocking [SQLite3](https://sqlite.org/) bindings for [Node.js](http://nodejs.org/).
 
 [![NPM](https://nodei.co/npm/sqlite3.png?downloads=true&downloadRank=true)](https://nodei.co/npm/sqlite3/)
